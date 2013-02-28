@@ -1,8 +1,8 @@
 Scrapes data on Boston Restaurant Week restaurants and stores it in a CSV.
 
-Technologies Used:
-	1) scraping - python + pattern-web library
-	2) cleaning - google refine (could have done cleaning with python too but I wanted to play around with google refine)
+Technologies Used:<br>
+	1) scraping - python + pattern-web library<br>
+	2) cleaning - google refine (could have done cleaning with python too but I wanted to play around with google refine)<br>
 	3) visualization - google fusion tables
 
 You can find the visualization here: http://bit.ly/15jwnvm
